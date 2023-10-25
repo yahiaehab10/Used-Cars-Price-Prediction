@@ -66,7 +66,7 @@ We perform Polynomial Regression analysis to determine the best degree for the p
 To use this project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies (scikit-learn, numpy, pandas, matplotlib, bokeh).
+2. Install the required dependencies (scikit-learn, numpy, pandas, matplotlib).
 3. Run the Jupyter notebook or Python script to perform Linear and Polynomial Regression on the provided dataset.
 
 ## Credits
@@ -75,4 +75,5 @@ To use this project, follow these steps:
 
 ## Acknowledgments
 
-- We would like to thank our instructor and peers for their guidance and support during this project.
+- Inspiration for this project came from Dr Caroline from the GIU Computer Science.
+- We would like to thank our instructor Aya Abduallah and Nouran Khaled for guiding us.
